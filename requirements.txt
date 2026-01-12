@@ -1,0 +1,17 @@
+jupyter
+python-dotenv
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+
+sentence-transformers
+faiss-cpu
+
+streamlit
+fastapi
+uvicorn
+
+transformers
+torch
